@@ -18,7 +18,7 @@ public class RandomWalker implements Runnable {
         this.area = a;
         this.vertices = l;
     }
-
+//hello my new world
     /**
      * 线程的运行方法
      */
