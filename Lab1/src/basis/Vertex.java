@@ -3,7 +3,7 @@ package basis;
 import java.util.HashMap;
 import java.util.HashSet;
 
-
+//we can get we want
 public class Vertex {
 	public String name;
 	public HashSet<Vertex> predecessors;
