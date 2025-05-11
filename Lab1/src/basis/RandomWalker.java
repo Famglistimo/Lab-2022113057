@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Random;
 
-
+//so what
 public class RandomWalker implements Runnable {
     private TextArea area;				//随机游走控制面板的结果显示区域
     private ArrayList<Vertex> vertices;	//有向图的顶点列表
