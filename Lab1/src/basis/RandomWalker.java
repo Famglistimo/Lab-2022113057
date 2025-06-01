@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Random;
 
-//22
+
 public class RandomWalker implements Runnable {
     private TextArea area;				//随机游走控制面板的结果显示区域
     private ArrayList<Vertex> vertices;	//有向图的顶点列表
@@ -18,7 +18,7 @@ public class RandomWalker implements Runnable {
         this.area = a;
         this.vertices = l;
     }
-//hello my new world
+
     /**
      * 线程的运行方法
      */

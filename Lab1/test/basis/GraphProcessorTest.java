@@ -1,4 +1,4 @@
-package basis;
+package ui;
 
 import basis.DirectedGraph;
 import basis.GraphProcessor;
